@@ -2,7 +2,8 @@
 REST api to be consumed by a mobile app, which is somewhat similar to TrueCaller 
 
 
-How to run 
+How to run
+
 step 1: Create a virtual environment 
 
 step 2 activate it
